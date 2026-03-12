@@ -160,6 +160,25 @@ def copy_theme_assets() -> None:
     if preserved_uploads.exists():
         shutil.copytree(preserved_uploads, OUTPUT_DIR / "wp-content/uploads", dirs_exist_ok=True)
         shutil.rmtree(preserved_uploads)
+    normalize_theme_assets()
+
+
+def normalize_theme_assets() -> None:
+    twentyfourteen_css = OUTPUT_DIR / "wp-content/themes/twentyfourteen/style.css"
+    if twentyfourteen_css.exists():
+        text = twentyfourteen_css.read_text(encoding="utf-8", errors="ignore")
+        text = text.replace("../../..images/pattern-light.svg", "images/pattern-light.svg")
+        text = text.replace("../../..images/pattern-dark.svg", "images/pattern-dark.svg")
+        twentyfourteen_css.write_text(text, encoding="utf-8")
+
+    genericons_css = OUTPUT_DIR / "wp-content/themes/twentyfourteen/genericons/genericons.css"
+    if genericons_css.exists():
+        text = genericons_css.read_text(encoding="utf-8", errors="ignore")
+        text = text.replace(
+            "@font-face {\n    font-family: 'Genericons';\n    src: url('font/genericons-regular-webfont.eot');\n}\n\n",
+            "",
+        )
+        genericons_css.write_text(text, encoding="utf-8")
 
 
 def embed_markup(url: str, width: str) -> str:
@@ -452,6 +471,22 @@ def listing_markup(items: list[Entry], current_rel: str) -> str:
     return '<div class="xml-list"><ul>' + "".join(rows) + "</ul></div>"
 
 
+def archives_intro_markup(fragment: str, current_rel: str, route_map: dict[str, str], media_map: dict[str, str]) -> str:
+    soup = BeautifulSoup(rewrite_fragment(fragment, current_rel, route_map, media_map), "html.parser")
+    kept: list[str] = []
+    for node in soup.contents:
+        if getattr(node, "name", None) == "ul":
+            break
+        if getattr(node, "name", None) == "div" and node.get("id") == "professor_prebid-root":
+            continue
+        if getattr(node, "name", None) == "strong":
+            continue
+        text = str(node).strip()
+        if text:
+            kept.append(text)
+    return "".join(kept)
+
+
 def main() -> None:
     copy_theme_assets()
 
@@ -496,6 +531,7 @@ def main() -> None:
         if entry.slug == "outputs":
             body += listing_markup(outputs, entry.route_rel)
         elif entry.slug == "archives":
+            body = archives_intro_markup(entry.content, entry.route_rel, route_map, media_map)
             body += listing_markup(archives, entry.route_rel)
         write_page(
             entry.route_rel,
