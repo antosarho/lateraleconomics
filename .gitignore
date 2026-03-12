@@ -8,6 +8,8 @@ wayback-local/
 wayback-extra/
 xml-site/
 uploads/
+!docs/wp-content/uploads/
+!docs/wp-content/uploads/**
 
 # Temporary files
 tmp/

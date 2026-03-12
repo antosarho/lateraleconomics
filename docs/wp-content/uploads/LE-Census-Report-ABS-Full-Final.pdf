@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app244.us.archive.org';v.server_ms=559;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf","20250501024231","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1746067351");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <script>
+      (function(){
+          setTimeout(function(){
+              window.location.reload();
+          }, 2000);
+      }())
+  </script>
+  <link rel="icon" href="data:,">
+  <title>One moment, please...</title>
+  <style>
+.spinner {
+    -webkit-animation: spin 1s ease-out;
+    animation: spin 1s ease-out;
+}
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+#outer-container {
+    text-align: center;
+}
+#container {
+        display: inline-block;
+        height: 100px;
+    }
+#text {
+    float: left;
+    height: 100px;
+    line-height: 100px;
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 .4em 0 .2em;
+    letter-spacing: 0.06em;
+    color: rgba(38, 122, 72, 0.86);
+}
+@media (min-height: 180px) {
+    #outer-container {
+        margin-top: 0;
+    }
+}
+@media (min-height: 360px) {
+    #outer-container {
+        margin-top: 5%;
+    }
+}
+@media (min-height: 540px) {
+    #outer-container {
+        margin-top: 10%;
+    }
+}
+@media (min-height: 720px) {
+    #outer-container {
+        margin-top: 20%;
+    }
+}
+@media (min-width: 1450px) {
+    .throbber {
+        width: 90px;
+        height: 90px;
+        float: left;
+        padding: 5px 0 5px 5px;
+        opacity: 0.86;
+    }
+    #container {
+        display: inline-block;
+        border: 3px solid rgb(38, 122, 72, 0.86);
+        border-radius: 51px;
+        height: 100px;
+    }
+}
+
+  </style>
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20250501024231/https%3A//lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20250501024231" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20250501024231*/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf" title="See a list of every capture for this URL">21 captures</a>
+          <div class="r" title="Timespan for captures of this URL">27 Feb 2020 - 01 May 2025</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Apr</td>
+            <td class="c" id="displayMonthEl" title="You are here: 02:42:31 May 01, 2025">MAY</td>
+            <td class="f" nowrap="nowrap">Jun</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 02:42:31 May 01, 2025">01</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2024</td>
+            <td class="c" id="displayYearEl" title="You are here: 02:42:31 May 01, 2025">2025</td>
+            <td class="f" nowrap="nowrap">2026</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20250501024231/http://web.archive.org/screenshot/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20250501024231/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20250501024231/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/save-page-now-outlinks)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/save-page-now-outlinks" target="_new"><span class="wm-title">Save Page Now Outlinks</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20250501024231/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf","20250501024231",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+  <div id="outer-container">
+    <div id="container">
+      <div class="throbber">
+          <svg class="spinner" width="90px" height="90px" viewbox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <title>Loader</title>
+              <defs>
+                  <polygon id="path-1" points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
+              </defs>
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Logo" transform="translate(-5.000000, -2.000000)">
+                      <g id="Group-2" transform="translate(5.000000, 2.000000)">
+                          <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z" id="Fill-1" fill="#467C45"></path>
+                          <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585" id="Fill-3" fill="#467C45"></path>
+                          <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049" id="Fill-5" fill="#467C45"></path>
+                          <g id="Group-9" transform="translate(0.000000, 11.919659)">
+                              <mask id="mask-2" fill="white">
+                                  <use xlink:href="/web/20250501024231im_/https://lateraleconomics.com.au/wp-content/uploads/LE-Census-Report-ABS-Full-Final.pdf#path-1"></use>
+                              </mask>
+                              <g id="Clip-8"></g>
+                              <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146" id="Fill-7" fill="#467C45" mask="url(#mask-2)"></path>
+                          </g>
+                          <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049" id="Fill-10" fill="#467C45"></path>
+                          <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207" id="Fill-12" fill="#467C45"></path>
+                          <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555" id="Fill-14" fill="#467C45"></path>
+                          <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488" id="Fill-16" fill="#467C45"></path>
+                      </g>
+                  </g>
+              </g>
+          </svg>
+      </div>
+      <div id="text">
+        Please wait while your request is being verified...
+      </div>
+    </div>
+  </div>
+  <div id="x14lme18fu65"></div>
+  <script>
+var a0G=a0l;(function(K,L){var a0B={K:0x125,L:0x11d,i:0x112,l:0x122,z:0x12f,U:0x133},H=a0l,i=K();while(!![]){try{var l=parseInt(H(a0B.K))/0x1+-parseInt(H(0x12a))/0x2*(parseInt(H(a0B.L))/0x3)+-parseInt(H(a0B.i))/0x4+parseInt(H(a0B.l))/0x5+-parseInt(H(a0B.z))/0x6+parseInt(H(a0B.U))/0x7*(-parseInt(H(0x13b))/0x8)+parseInt(H(0x110))/0x9;if(l===L)break;else i['push'](i['shift']());}catch(z){i['push'](i['shift']());}}}(a0i,0x5ac42));function a0l(K,L){var i=a0i();return a0l=function(l,z){l=l-0x10e;var U=i[l];return U;},a0l(K,L);}var a0z=window[a0G(0x121)],a0U={'webdriverCheck':function(){var Y=a0G;return Y(0x119)in window||!!a0z[Y(0x119)];},'userAgentCheck':function(){var a0h={K:0x12b},j=a0G;return/headless|bytespider/i[j(a0h.K)](a0z[j(0x10e)]);},'appVersionCheck':function(){var a0A={K:0x134},X=a0G;return/headless/i['test'](a0z[X(a0A.K)]);},'pluginArraySpoofing':function(){var a0f={K:0x129,L:0x13f,i:0x13f,l:0x129},o=a0G;let K=PluginArray[o(a0f.K)]===a0z[o(a0f.L)]['__proto__'];if(a0z[o(a0f.i)][o(0x141)]>0x0)K&=Plugin[o(a0f.l)]===a0z[o(0x13f)][0x0][o(0x111)];return!K;},'mimeTypeArraySpoofing':function(){var a0c={K:0x114,L:0x129,i:0x111},w=a0G;let K=MimeTypeArray[w(0x129)]===a0z[w(a0c.K)][w(0x111)];if(a0z['mimeTypes']['length']>0x0)K&=MimeType[w(a0c.L)]===a0z['mimeTypes'][0x0][w(a0c.i)];return!K;},'noLanguage':function(){var a0v={K:0x118},C=a0G;return!a0z[C(0x11e)]||a0z[C(a0v.K)][C(0x141)]===0x0;},'zeroOuterDimensions':function(){var a0s={K:0x117,L:0x135},Z=a0G;return window[Z(a0s.K)+'t']===0x0&&window[Z(a0s.L)]===0x0;}},a0d=function(i,l){var a0R={K:0x11f,L:0x11f,i:0x115,l:0x128,z:0x136,U:0x138,d:0x146},a0u={K:0x11b},e=a0G,z=(function(){var a0x={K:0x12c},d=!![];return function(N,D){var W=d?function(){var M=a0l;if(D){var T=D[M(a0x.K)](N,arguments);return D=null,T;}}:function(){};return d=![],W;};}()),U=z(this,function(){var Q=a0l;return U['toString']()[Q(0x139)](Q(a0u.K)+'+$')[Q(0x132)]()[Q(0x126)+'r'](U)['search'](Q(0x11b)+'+$');});U(),window[e(a0R.K)+e(0x115)]?window[e(0x136)][e(a0R.L)+e(a0R.i)](e(0x116)+e(a0R.l),i,l):window[e(a0R.z)][e(0x10f)+'t'](e(a0R.U)+e(a0R.d),i);};a0d(function(){var a0F={K:0x136,L:0x127,i:0x136,l:0x13a,z:0x13d,U:0x137,d:0x13a,N:0x13d,D:0x124,W:0x141,T:0x120,g:0x11c,I:0x132,m:0x145,b:0x113,k:0x12d,S:0x12e,p:0x123,V:0x140,y:0x12d,G:0x123,B:0x123,t:0x130,h:0x130,A:0x130,f:0x13c};setTimeout(function(){var q=a0l,K=window[q(a0F.K)][q(0x131)+q(a0F.L)]('x14lme18fu65'),L=+((+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[])+(+![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![])),i=window[q(a0F.i)][q(0x13a)+q(0x13d)]('form'),l=window[q(0x136)][q(a0F.l)+q(a0F.z)](q(0x137)),z=window[q(0x136)][q(a0F.l)+q(0x13d)](q(a0F.U)),U=window[q(a0F.K)][q(a0F.d)+'ent']('input'),d=window[q(a0F.K)][q(a0F.d)+q(a0F.N)](q(0x137)),N=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[])),D='wsidchk',W='pdata',T='https%3A%2F%2Flateraleconomics.com.au%2Fwp-content%2Fuploads%2FLE-Census-Report-ABS-Full-Final.pdf',g='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',I='failedChecks',m=Object[q(a0F.D)](a0U)[q(0x144)](([p,V])=>{try{return V()?p:null;}catch(y){return null;}})['filter'](p=>p!==null),b=m[q(a0F.W)]>0x0;if(b){var k=new URLSearchParams();k[q(0x11a)]('id',q(a0F.T)+q(a0F.g)+'0950635027'+'9e'),k[q(0x11a)]('ts','1746067351'),k[q(0x11a)](D,L+N),k[q(0x11a)](W,T),m['forEach'](p=>k['append'](I,p));var S=new XMLHttpRequest();S['open']('GET',g+'?'+k[q(a0F.I)]()),S[q(0x142)](null);}else i['id']='x14lme18fu65',i[q(0x143)]=q(a0F.m)+q(0x13e),i['method']='GET',i['action']=g,l['id']='rathq5jsuaco',l[q(0x123)]=D,l[q(a0F.b)]=L+N,l[q(a0F.k)]=q(a0F.S),U[q(a0F.p)]='id',U[q(0x113)]=q(a0F.V)+'60b54a2be4'+'d49030b349'+'c7',U[q(a0F.y)]=q(a0F.S),d[q(a0F.G)]='ts',d[q(0x113)]='1746067351',d[q(0x12d)]='hidden',z['id']='zgx2azuh1wi8',z[q(a0F.B)]=W,z[q(0x113)]=T,z['type']=q(0x12e),i[q(0x130)+'d'](l),i[q(0x130)+'d'](z),i[q(a0F.t)+'d'](U),i[q(a0F.h)+'d'](d),K[q(a0F.A)+'d'](i),i[q(a0F.f)]();},0x3e8);},![]);function a0i(){var n=['userAgent','attachEven','9930663PFYCvK','__proto__','580564kirKnI','value','mimeTypes','stener','DOMContent','outerHeigh','languages','webdriver','append','(((.+)+)+)','1b41b08f12','3qJXuUb','language','addEventLi','a6105c0a61','navigator','966725DmqFOg','name','entries','612339LuSCVE','constructo','ById','Loaded','prototype','758188UqMGLP','test','apply','type','hidden','2910282cZeJbI','appendChil','getElement','toString','1687EGrqtb','appVersion','outerWidth','document','input','onreadysta','search','createElem','17528ZKnEBh','submit','ent','ne;','plugins','7fa3b767c4','length','send','style','map','display:no','techange'];a0i=function(){return n;};return a0i();}
+  </script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 02:42:31 May 01, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:31:42 Mar 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.937
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.061
+  esindex: 0.011
+  cdx.remote: 7.59
+  LoadShardBlock: 119.221 (3)
+  PetaboxLoader3.datanode: 91.271 (4)
+  PetaboxLoader3.resolve: 381.479 (2)
+  load_resource: 393.079
+  nav: 0.302 (6)
+-->
