@@ -1,0 +1,18 @@
+.DS_Store
+*.log
+
+# Generated working directories not intended for Pages publish
+dist/
+site-local/
+wayback-local/
+wayback-extra/
+xml-site/
+uploads/
+
+# Temporary files
+tmp/
+
+# Unrelated sources and local archives
+clubtroppo.WordPress.2026-03-02.xml
+generate_static_site.py
+new-uploads.zip

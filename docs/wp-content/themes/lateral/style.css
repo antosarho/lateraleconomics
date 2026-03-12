@@ -1,0 +1,783 @@
+/*
+Theme Name: Twenty Fourteen Child
+Theme URI: http://wordpress.org/themes/twentyfourteen
+Author: the WordPress team
+Author URI: http://wordpress.org/
+Description: In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: twentyfourteen
+Template: twentyfourteen
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url("../twentyfourteen/style.css");
+
+
+
+
+body{
+
+
+
+	margin: 0;
+
+
+
+	padding: 0;
+
+
+
+	font-size: 14px;
+
+
+
+	font-family:Arial,Helvetica,sans-serif;
+
+	background: #fff;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+
+
+
+	font-family: Arial,Helvetica,sans-serif;
+
+
+
+	font-size: 14px;
+
+
+
+}
+
+
+
+a{
+
+
+
+	color: #6699CC;
+
+
+
+	text-decoration: none;
+
+
+
+	font-weight: bold;
+
+
+
+}
+
+
+
+
+
+
+
+.body_table{
+
+
+
+border:height: 247px;margin: 0 auto;width: 580px;background: #99ccff;padding: 5px;
+
+
+
+}
+
+
+
+.body_table img{padding-right: 5px; float: left; height: auto;}
+
+
+
+
+
+
+
+
+
+
+
+.header_letf{
+
+
+
+	float: left;
+
+
+
+	margin-right: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.header_banner{
+
+
+
+	background: url('images/WebBanner.jpg') no-repeat;
+
+
+
+	height: 133px;
+
+
+
+	margin-left: 185px;
+
+
+
+}
+
+
+
+
+
+
+
+.nav_menu{
+
+
+
+	margin-top: 0px;
+
+
+
+	width: 130px;
+	margin-left: 21px;
+
+
+
+}
+
+
+
+.nav_menu ul{
+
+
+
+	list-style: none;
+
+
+
+}
+
+
+
+.nav_menu ul li{
+
+
+
+	border-right: 1px solid #828BC6;
+
+
+
+	list-style: none outside none;
+
+
+
+	margin-right: 10px;
+
+
+
+	padding-right: 7px;
+
+
+
+	text-align: right;
+	margin-top: -4px;
+
+
+}
+
+
+
+.nav_menu ul li a {
+
+
+
+	border-bottom: 1px solid #828BC6;
+
+
+
+	color: #6699CC;
+
+
+
+	display: block;
+
+
+
+	font-weight: bold;
+
+
+
+	text-decoration: none;
+
+
+
+	padding-top: 12px;
+
+
+
+	font-size: 15px;
+
+
+
+}
+
+
+
+.nav_menu ul li a:hover{}
+
+
+
+
+
+
+
+.body_content{
+
+
+
+	/*width: 625px;*/
+
+
+
+	width: 54.5%;
+
+
+
+	margin-left: 170px;
+
+
+
+	margin-top: -200px;
+
+
+
+}
+
+
+
+/**************************************/
+
+
+
+
+
+
+
+/*************************************/	
+
+
+
+
+
+
+
+.row_1{}
+
+
+
+.footer{
+
+
+
+	height: 100px;
+
+
+
+	margin: 0 auto;
+
+
+
+}
+
+
+
+
+
+
+
+.footer_content{
+
+
+
+	margin: 0 auto;
+
+
+
+	width: 475px;
+
+
+
+}
+
+
+
+.footer_content ul {
+
+
+
+	list-style: none;
+
+
+
+}
+
+
+
+.footer_content ul li{
+
+
+
+	list-style: none;
+
+
+
+}
+
+
+
+.footer_content ul li a{
+
+
+
+	display: block;
+
+
+
+	float: left;
+
+
+
+	font-size: 14px;
+
+
+
+	padding: 10px;
+
+
+
+	text-decoration: none;
+
+
+
+	color: #6699CC;
+
+
+
+}
+
+
+
+.footer_text{	margin-left: 150px;	text-align: center;	width: 54.5%;}
+
+
+
+.footer_text a{ padding: 10px; text-decoration: none;}
+
+
+
+.ftext{
+
+
+
+	color: #6699CC;
+
+
+
+	margin-left: 220px;
+
+
+
+	margin-top: 33px;
+
+
+
+	width: 260px;
+
+
+
+	font-size: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+/*************************************************************************/
+
+
+
+		Responsive
+
+
+
+/**************************************************************************/
+
+
+
+
+
+
+
+/*		Tablet Layout: 768px.
+
+
+
+   */
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+	.header_banner{background: url('logo.jpg') no-repeat;}
+
+
+
+	.footer{height: 100px;margin-left: 100px;width: 700px;}
+
+
+
+	.body_table{
+
+
+
+	border: height: 235px;margin: 0 auto;width: 480px;
+
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/*Mobile Layout: 320px.
+
+
+
+  */
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+
+.header_banner{background: url('logo.jpg') no-repeat;}
+
+
+
+table{width: 170px;}
+
+
+
+.footer{margin-left: 10px}
+
+
+
+.body_table{height: 481px;margin: 0 auto;width: 194px;}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/*		Wide Mobile Layout: 480px.
+
+
+
+  */
+
+
+
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+
+	.header_banner{background: url('logo.jpg') no-repeat;}
+
+
+
+	table{width: 190px;}
+
+
+
+	.footer{height: 100px;margin-left: 30px;}
+
+
+
+	.body_table{height: auto;margin: 0 auto;width: 310px;}
+
+
+
+
+
+
+
+}
+
+
+.nav_menu{
+
+margin-left: 21px;
+
+margin-top: -145px;
+
+width: 130px;
+
+}
+
+.ftext{
+
+margin-left: 210px;
+
+width: 260px;
+
+}
+
+.body_table{height: 220px;margin: 0 auto; width: 470px;background: #99ccff;padding: 5px; margin-bottom: 20px;}
+
+.body_table img{padding-right: 5px; float: left; height: auto; width: 165px}
+
+a{
+	color: #6699CC;
+	font-weight: bold;
+	text-decoration: none;
+	
+}
+
+
+
+/**************************************************************************/
+
+
+
+/*		Tablet Layout: 768px.
+
+   */
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	.header_banner{background: url('logo.jpg') no-repeat;}
+
+	.footer{height: 100px;margin-left: 100px;width: 700px;}
+
+	.body_table{
+
+	border: height: 235px;margin: 0 auto;width: 480px;
+
+}
+.body_content {
+    width: 74.5%;
+	text-align: justify
+}
+.footer {
+    width: 620px;
+}
+.header_banner {
+    background: url("Banner768.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+}
+
+
+
+/*Mobile Layout: 320px.
+
+  */
+
+
+
+@media only screen and (max-width: 767px) {
+
+.header_banner{background: url('logo.jpg') no-repeat;}
+
+table{width: 170px;}
+
+.footer{margin-left: 10px}
+
+.body_table{height: 481px;margin: 0 auto;width: 194px;}
+
+
+
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+
+  */
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.header_banner{background: url('logo.jpg') no-repeat;}
+
+	table{width: 190px;}
+
+	.footer{height: 100px;margin-left: 30px;}
+
+	.body_table{height: auto;margin: 0 auto;width: 295px;}
+	.header_banner {
+		margin-left: 142px;
+		width: 340px
+	}
+.body_content {
+    width: 62.5%;
+	text-align: justify
+} 
+
+}
+
+/*320 device*/
+@media only screen and (max-width: 320px) {
+.header_banner {
+    background: url("logo320.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+	.header_banner {
+		margin-left: 155px;
+	}
+	.body_content {
+    margin-left: 150px;
+    margin-top: -200px;
+    width: 52%;
+	text-align: justify;
+}
+.body_table{width: 159px; height: auto}
+.body_table img{width: 160px}
+}
+
+p {
+    color: black;
+    margin-bottom: 12px;
+    line-height: 1.3;
+}
+h2 {
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    font-weight: 700;
+    margin: 21px 0 12px;
+	color: #6699cc;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+    box-sizing: border-box;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+}
+
+table {
+    font-size: initial;
+    font-style: initial;
+    font-variant: initial;
+    font-weight: initial;
+    line-height: normal;
+    text-align: start;
+    white-space: normal;
+}
+
+table, td, th, tr, thead, tbody, tfoot, colgroup, col {
+    border-color: gray;
+}
+table, td, th, tr, thead, tbody, tfoot, colgroup, col {
+    border-color: gray;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+}
+td {
+    display: table-cell;
+    padding: 1px;
+    text-align: inherit;
+    vertical-align: inherit;
+}
+
+table, td, th, tr, thead, tbody, tfoot, colgroup, col {
+	width: 371px;
+	 border-color: #99ccff;
+	 margin: auto;
+}
+tbody, tfoot, thead, tr, th, td{
+	vertical-align: top;
+}
